@@ -2,3 +2,4 @@ streamlit
 spacy
 nltk
 beautifulsoup4
+PyPDF2
